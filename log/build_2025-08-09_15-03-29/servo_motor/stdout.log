@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/servo_motor/servo_motor.egg-info/PKG-INFO
+writing dependency_links to ../../build/servo_motor/servo_motor.egg-info/dependency_links.txt
+writing entry points to ../../build/servo_motor/servo_motor.egg-info/entry_points.txt
+writing requirements to ../../build/servo_motor/servo_motor.egg-info/requires.txt
+writing top-level names to ../../build/servo_motor/servo_motor.egg-info/top_level.txt
+reading manifest file '../../build/servo_motor/servo_motor.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/servo_motor/servo_motor.egg-info/SOURCES.txt'
+running build
+running build_py
+copying servo_motor/servo_control.py -> /home/kaikycastro/Desktop/servo_ws/build/servo_motor/build/lib/servo_motor
+running install
+running install_lib
+copying /home/kaikycastro/Desktop/servo_ws/build/servo_motor/build/lib/servo_motor/servo_control.py -> /home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages/servo_motor
+byte-compiling /home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages/servo_motor/servo_control.py to servo_control.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages/servo_motor-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/servo_motor/servo_motor.egg-info to /home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages/servo_motor-0.0.0-py3.10.egg-info
+running install_scripts
+Installing servo_control script to /home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/servo_motor
+writing list of installed files to '/home/kaikycastro/Desktop/servo_ws/build/servo_motor/install.log'

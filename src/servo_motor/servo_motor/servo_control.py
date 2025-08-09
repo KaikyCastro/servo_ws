@@ -7,6 +7,7 @@ class ServoControl(Node):
         super().__init__('servo_controller')
         self.serial = serial.Serial('/dev/ttyUSB0', 9600)
         self.timer = self.create_timer(1.0, self.move_servo)
+        self.angle = 90
 
     def move_servo(self):
         self.angle += 10

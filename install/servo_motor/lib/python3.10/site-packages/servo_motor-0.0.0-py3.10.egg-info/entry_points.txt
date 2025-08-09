@@ -1,3 +1,3 @@
 [console_scripts]
-
+servo_control = servo_motor.servo_control:main
 

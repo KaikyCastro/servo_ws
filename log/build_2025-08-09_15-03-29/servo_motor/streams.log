@@ -1,0 +1,25 @@
+[0.407s] Invoking command in '/home/kaikycastro/Desktop/servo_ws/src/servo_motor': PYTHONPATH=/home/kaikycastro/Desktop/servo_ws/build/servo_motor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/servo_motor build --build-base /home/kaikycastro/Desktop/servo_ws/build/servo_motor/build install --record /home/kaikycastro/Desktop/servo_ws/build/servo_motor/install.log --single-version-externally-managed install_data
+[0.546s] running egg_info
+[0.546s] writing ../../build/servo_motor/servo_motor.egg-info/PKG-INFO
+[0.547s] writing dependency_links to ../../build/servo_motor/servo_motor.egg-info/dependency_links.txt
+[0.547s] writing entry points to ../../build/servo_motor/servo_motor.egg-info/entry_points.txt
+[0.547s] writing requirements to ../../build/servo_motor/servo_motor.egg-info/requires.txt
+[0.547s] writing top-level names to ../../build/servo_motor/servo_motor.egg-info/top_level.txt
+[0.547s] reading manifest file '../../build/servo_motor/servo_motor.egg-info/SOURCES.txt'
+[0.548s] adding license file 'LICENSE'
+[0.548s] writing manifest file '../../build/servo_motor/servo_motor.egg-info/SOURCES.txt'
+[0.548s] running build
+[0.548s] running build_py
+[0.548s] copying servo_motor/servo_control.py -> /home/kaikycastro/Desktop/servo_ws/build/servo_motor/build/lib/servo_motor
+[0.548s] running install
+[0.549s] running install_lib
+[0.549s] copying /home/kaikycastro/Desktop/servo_ws/build/servo_motor/build/lib/servo_motor/servo_control.py -> /home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages/servo_motor
+[0.549s] byte-compiling /home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages/servo_motor/servo_control.py to servo_control.cpython-310.pyc
+[0.549s] running install_data
+[0.549s] running install_egg_info
+[0.551s] removing '/home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages/servo_motor-0.0.0-py3.10.egg-info' (and everything under it)
+[0.551s] Copying ../../build/servo_motor/servo_motor.egg-info to /home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages/servo_motor-0.0.0-py3.10.egg-info
+[0.551s] running install_scripts
+[0.563s] Installing servo_control script to /home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/servo_motor
+[0.563s] writing list of installed files to '/home/kaikycastro/Desktop/servo_ws/build/servo_motor/install.log'
+[0.576s] Invoked command in '/home/kaikycastro/Desktop/servo_ws/src/servo_motor' returned '0': PYTHONPATH=/home/kaikycastro/Desktop/servo_ws/build/servo_motor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaikycastro/Desktop/servo_ws/install/servo_motor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/servo_motor build --build-base /home/kaikycastro/Desktop/servo_ws/build/servo_motor/build install --record /home/kaikycastro/Desktop/servo_ws/build/servo_motor/install.log --single-version-externally-managed install_data
